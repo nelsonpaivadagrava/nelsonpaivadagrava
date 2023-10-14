@@ -1,6 +1,7 @@
 <a href="https://github.com/DavidsDvm">
-    <img src="./assets/imggif.gif" alt="DavidsDvm Profile GIF" width="600">
+    <img src="./assets/imggif.gif" alt="DavidsDvm Profile GIF" style="width:300px;">
 </a>
+
 
 
 Sou um apaixonado cientista de dados que adora transformar dados em informações significativas e impactantes. Com um forte interesse em aprendizado de máquina e análise de dados, estou constantemente buscando novos desafios emocionantes.

@@ -1,7 +1,6 @@
 <a href="https://github.com/DavidsDvm">
-    <img src="./assets/imggif.gif" alt="nelsonpaivadagrava Profile GIF" style="max-width: 100%; height: 100px;">
+    <img src="./assets/imggif.gif" alt="DavidsDvm Profile GIF" style="object-fit: cover; width: 300px; height: 300px;">
 </a>
-
 
 
 Sou um apaixonado cientista de dados que adora transformar dados em informações significativas e impactantes. Com um forte interesse em aprendizado de máquina e análise de dados, estou constantemente buscando novos desafios emocionantes.

@@ -1,6 +1,6 @@
 ### Olá, eu sou [Seu Nome] 👋
 
-<a href="https://github.com/DavidsDvm">![DavidsDvm Profile GIF](./assets/profile_presentation.gif)</a>
+<a href="https://github.com/DavidsDvm">![DavidsDvm Profile GIF](./assets/fundo-verde-claro (5).jpg)</a>
 
 Sou um apaixonado cientista de dados que adora transformar dados em informações significativas e impactantes. Com um forte interesse em aprendizado de máquina e análise de dados, estou constantemente buscando novos desafios emocionantes.
 

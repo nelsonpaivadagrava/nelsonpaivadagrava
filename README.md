@@ -4,7 +4,7 @@
 
 
 <a href="https://github.com/DavidsDvm">
-    <img src="./assets/2.png" alt="nelsonpaivadagrava Profile GIF" style="border-radius: 50%;">
+    <img src="./assets/2.png" alt="nelsonpaivadagrava Profile GIF" style="border-radius: 50px;">
 </a>
 
 

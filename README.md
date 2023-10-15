@@ -17,7 +17,8 @@
 
   <a href="https://github.com/Giingu"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=nelsonpaivadagrava&theme=radical&title_color=74C488&text_color=A2E1B1"></a>
   
-  <a href="https://github.com/Giingu"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=nelsonpaivadagrava&theme=radical&title_color=74C488&text_color=A2E1B1"></a>
+  <a href="https://github.com/Giingu"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonpaivadagrava&langs_count=8&layout=compact&theme=radical&4&show_icons=true&title_color=74C488&text_color=A2E1B1"/></a>
+  <br/>
 
 ## 📘 My top open source projects
 

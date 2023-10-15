@@ -3,3 +3,8 @@
 </a>
 
 
+<a href="https://github.com/DavidsDvm">
+    <img src="./assets/2.png" alt="nelsonpaivadagrava Profile GIF" style="border-radius: 50%;">
+</a>
+
+

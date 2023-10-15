@@ -1,5 +1,5 @@
 <a href="https://github.com/DavidsDvm">
-    <img src="./assets/imggif.gif" alt="DavidsDvm Profile GIF" style="object-fit: cover;height: 900px;">
+    <img src="./assets/imggif.gif" alt="nelsonpaivadagrava Profile GIF">
 </a>
 
 

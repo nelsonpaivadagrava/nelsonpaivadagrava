@@ -13,7 +13,7 @@
 
 ## 🔥 Github Stats
 
-<img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg"/>
+<img align="right" width="45%" src="./assets/img2.png"/>
 
   <a href="https://github.com/Giingu"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=nelsonpaivadagrava&theme=radical&title_color=74C488&text_color=A2E1B1"></a>
   

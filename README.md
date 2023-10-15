@@ -13,7 +13,7 @@
 
 ## 🔥 Github Stats
 
-<img align="right" width="45%" src="./assets/img2.png"/>
+<img align="right" width="46%" src="./assets/img2.png"/>
 
   <a href="https://github.com/Giingu"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=nelsonpaivadagrava&theme=radical&title_color=74C488&text_color=A2E1B1"></a>
   
@@ -23,8 +23,8 @@
 ## 📘 My top open source projects
 
 <p align="left">
-    <a href="https://github.com/Enhanced-TTVDropBot"><img width="25%" src="https://github-readme-stats.vercel.app/api/pin/?username=nelsonpaivadagrava&repo=github-readme-stats" alt="readme-typing-svg"></a>
-  <a href="https://github.com/Giingu/DiscordPlus"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=nelsonpaivadagrava&repo=DiscordPlus&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+    <a href="https://github.com/Enhanced-TTVDropBot"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nelsonpaivadagrava&repo=nelsonpaivadagrava&hide_border=true&&title_color=74C488&icon_color=F8D866&theme=radical&show_icons=false&text_color=ffffff" alt="readme-typing-svg"></a>
+  <a href="https://github.com/Enhanced-TTVDropBot"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nelsonpaivadagrava&repo=nelsonpaivadagrava&hide_border=true&&title_color=74C488&icon_color=F8D866&theme=radical&show_icons=false&text_color=ffffff" alt="readme-typing-svg"></a>
 </p>
 
 <p align="left">

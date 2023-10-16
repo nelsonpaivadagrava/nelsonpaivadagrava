@@ -70,7 +70,7 @@ Entusiasta de Engenharia de Computação com foco em **Ciência de Dados**. Habi
                 <img src="https://img.shields.io/badge/-Node.js-ffffff?style=flat&logo=node.js" alt="Node.js" style="display: inline-block;">
                 <img src="https://img.shields.io/badge/-React-ffffff?style=flat&logo=react" alt="React" style="display: inline-block;">
                 <img src="https://img.shields.io/badge/-Next.js-ffffff?style=flat&logo=next.js" alt="Next.js" style="display: inline-block;">
-            </span>
+            </span>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
         </td>
     </tr>
     <tr>

@@ -3,7 +3,7 @@
 </a>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀
 <p align="center">
-    <a href=""><img src="https://i.imgur.com/QPASC7j.png" alt="My Linkedin"></a>
+    <a href="https://www.linkedin.com/in/nelson-de-paiva-dagrava-515079284/"><img src="https://i.imgur.com/QPASC7j.png" alt="My Linkedin"></a>
     <a href=""><img src="https://i.imgur.com/zfFKadt.png" alt="My Instagram"></a>
     <a href=""><img src="https://i.imgur.com/qbLFelZ.png" alt="My Youtube"></a>
     <a href=""><img src="https://i.imgur.com/vuPh96E.png" alt="My email"></a>

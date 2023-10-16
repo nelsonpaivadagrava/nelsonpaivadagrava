@@ -58,7 +58,7 @@ Entusiasta de Engenharia de Computação com foco em **Ciência de Dados**. Habi
 
 ##
 
-<table style="width:100%; max-width: 1000px; margin: 0 auto; background-color: #141321; border: 1px solid #ddd; padding: 10px; color: #ffffff;">
+<table style="width:100%; max-width: 800px; margin: 0 auto; background-color: #141321; border: 1px solid #ddd; padding: 10px; color: #ffffff;">
     <tr>
         <th style="text-align: left;">Linguagem</th>
     </tr>

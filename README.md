@@ -49,7 +49,7 @@ Entusiasta de Engenharia de Computação com foco em **Ciência de Dados**. Habi
   <a href="https://github.com/Giingu"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonpaivadagrava&langs_count=8&layout=compact&theme=radical&4&show_icons=true&title_color=74C488&text_color=A2E1B1"/></a>
   <br/>
 
-<h1>📘Top Projetos</h1>
+<h1 href="https://github.com/nelsonpaivadagrava?tab=repositories">📘Top Projetos</h1>
 
 <p align="left" href="https://github.com/nelsonpaivadagrava?tab=repositories">
     <a href="https://github.com/Enhanced-TTVDropBot"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nelsonpaivadagrava&repo=nelsonpaivadagrava&hide_border=true&&title_color=74C488&icon_color=F8D866&theme=radical&show_icons=false&text_color=ffffff" alt="readme-typing-svg"></a>

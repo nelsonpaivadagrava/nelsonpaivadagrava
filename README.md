@@ -56,7 +56,8 @@ Entusiasta de Engenharia de Computação com foco em **Ciência de Dados**. Habi
   <a href="https://github.com/Enhanced-TTVDropBot"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nelsonpaivadagrava&repo=nelsonpaivadagrava&hide_border=true&&title_color=74C488&icon_color=F8D866&theme=radical&show_icons=false&text_color=ffffff" alt="readme-typing-svg"></a>
 </p>
 
-##
+
+<h1>Habilidades</h1>
 
 <table style="width:100%; max-width: 800px; margin: 0 auto; background-color: #141321; border: 1px solid #ddd; padding: 10px; color: #ffffff;">
     <tr>
@@ -64,7 +65,7 @@ Entusiasta de Engenharia de Computação com foco em **Ciência de Dados**. Habi
     </tr>
     <tr>
         <td>
-            <img src="https://img.shields.io/badge/-Python-ffffff?style=flat&logo=python" alt="PYTHON" style="display: block; margin-bottom: 10px;">
+            <img src="https://img.shields.io/badge/-Python-ffffff?style=flat&logo=python&labelColor=ffffff&color=74C488" alt="PYTHON" style="display: block; margin-bottom: 10px;">
         </td>
     </tr>
     <tr>
@@ -72,9 +73,9 @@ Entusiasta de Engenharia de Computação com foco em **Ciência de Dados**. Habi
     </tr>
     <tr>
         <td>
-            <img src="https://img.shields.io/badge/-Git-ffffff?style=flat&logo=git" alt="Git" style="display: inline-block; margin-bottom: 10px;">
-            <img src="https://img.shields.io/badge/-GitHub-ffffff?style=flat&logo=github" alt="GitHub" style="display: inline-block; margin-bottom: 10px;">
-            <img src="https://img.shields.io/badge/-Markdown-ffffff?style=flat&logo=markdown" alt="Markdown" style="display: inline-block; margin-bottom: 10px;">
+            <img src="https://img.shields.io/badge/-Git-ffffff?style=flat&logo=git&labelColor=ffffff&color=74C488" alt="Git" style="display: inline-block; margin-bottom: 10px;">
+            <img src="https://img.shields.io/badge/-GitHub-ffffff?style=flat&logo=github&labelColor=ffffff&color=74C488&logoColor=000000" alt="GitHub" style="display: inline-block; margin-bottom: 10px;">
+            <img src="https://img.shields.io/badge/-Markdown-ffffff?style=flat&logo=markdown&labelColor=ffffff&color=74C488&logoColor=000000" alt="Markdown" style="display: inline-block; margin-bottom: 10px;">
         </td>
     </tr>
     <tr>
@@ -82,7 +83,7 @@ Entusiasta de Engenharia de Computação com foco em **Ciência de Dados**. Habi
     </tr>
     <tr>
         <td>
-            <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-ffffff?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code" style="display: block; margin-bottom: 10px;">
+            <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-ffffff?style=flat&logo=visual-studio-code&logoColor=007ACC&labelColor=ffffff&color=74C488&" alt="Visual Studio Code" style="display: block; margin-bottom: 10px;">
             ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
         </td>
     </tr>

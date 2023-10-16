@@ -1,4 +1,4 @@
-<a href="https://github.com/DavidsDvm">
+<a href="https://github.com/nelsonpaivadagrava">
     <img src="./assets/Comp 1.gif" alt="nelsonpaivadagrava Profile GIF" >
 </a>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -51,7 +51,7 @@ Entusiasta de Engenharia de Computação com foco em **Ciência de Dados**. Habi
 
 <h1>📘Top Projetos</h1>
 
-<p align="left" href="https://github.com/Giingu?tab=repositories&sort=stargazers">
+<p align="left" href="https://github.com/nelsonpaivadagrava?tab=repositories">
     <a href="https://github.com/Enhanced-TTVDropBot"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nelsonpaivadagrava&repo=nelsonpaivadagrava&hide_border=true&&title_color=74C488&icon_color=F8D866&theme=radical&show_icons=false&text_color=ffffff" alt="readme-typing-svg"></a>
   <a href="https://github.com/Enhanced-TTVDropBot"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nelsonpaivadagrava&repo=nelsonpaivadagrava&hide_border=true&&title_color=74C488&icon_color=F8D866&theme=radical&show_icons=false&text_color=ffffff" alt="readme-typing-svg"></a>
 </p>

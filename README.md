@@ -35,8 +35,8 @@ Entusiasta de Engenharia de Computação com foco em **Ciência de Dados**. Habi
     <td style="padding: 15px; text-align: left; border-bottom: 1px solid #ddd;">👩‍🏫 Love teaching and sharing knowledge</td>
   </tr>
   <tr>
-    <td style="padding: 15px; text-align: left; border-bottom: 1px solid #ddd;">🎬 Edição de vídeo é um dos meus hobbies favoritos!</td>
-    <td style="padding: 15px; text-align: left; border-bottom: 1px solid #ddd;">🎬 Video editing is one of my favorite hobbies!</td>
+    <td style="padding: 15px; text-align: left; border-bottom: 1px solid #ddd;">🎬 Edição de vídeo é um dos meus hobbies favoritos!⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</td>
+    <td style="padding: 15px; text-align: left; border-bottom: 1px solid #ddd;">🎬 Video editing is one of my favorite hobbies!⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</td>
   </tr>
 </table>
 

@@ -56,34 +56,36 @@ Entusiasta de Engenharia de Computação com foco em **Ciência de Dados**. Habi
   <a href="https://github.com/Enhanced-TTVDropBot"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nelsonpaivadagrava&repo=nelsonpaivadagrava&hide_border=true&&title_color=74C488&icon_color=F8D866&theme=radical&show_icons=false&text_color=ffffff" alt="readme-typing-svg"></a>
 </p>
 
-<table style="width:100%; text-align:center;">
+<table style="width:100%;">
     <tr>
-        <td style="background-color: #f2f2f2; border: 1px solid #ddd; padding: 10px;">
-            <h1>Linguagem</h1>
-            <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" alt="PYTHON"><br>
-            <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=3&logoColor=1572B6" alt="CSS"><br>
-            <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="JavaScript"><br>
-            <img src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C" alt="Bootstrap"><br>
-            <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" alt="Node.js"><br>
-            <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" alt="React"><br>
-            <img src="https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js" alt="Next.js"><br>
+        <td style="background-color: #141321; border: 1px solid #ddd; padding: 10px;">
+            <h1 style="color: #ffffff;">Linguagem</h1>
+            <img src="https://img.shields.io/badge/-Python-ffffff?style=flat&logo=python" alt="PYTHON" style="display: inline-block;">
+            <img src="https://img.shields.io/badge/-CSS-ffffff?style=flat&logo=3&logoColor=1572B6" alt="CSS" style="display: inline-block;">
+            <img src="https://img.shields.io/badge/-JavaScript-ffffff?style=flat&logo=javascript" alt="JavaScript" style="display: inline-block;">
+            <img src="https://img.shields.io/badge/-Bootstrap-ffffff?style=flat&logo=bootstrap&logoColor=563D7C" alt="Bootstrap" style="display: inline-block;">
+            <img src="https://img.shields.io/badge/-Node.js-ffffff?style=flat&logo=node.js" alt="Node.js" style="display: inline-block;">
+            <img src="https://img.shields.io/badge/-React-ffffff?style=flat&logo=react" alt="React" style="display: inline-block;">
+            <img src="https://img.shields.io/badge/-Next.js-ffffff?style=flat&logo=next.js" alt="Next.js" style="display: inline-block;">
         </td>
     </tr>
     <tr>
-        <td style="background-color: #f2f2f2; border: 1px solid #ddd; padding: 10px;">
-            <h1>Ferramentas</h1>
-            <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="Git"><br>
-            <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="GitHub"><br>
-            <img src="https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown" alt="Markdown"><br>
+        <td style="background-color: #141321; border: 1px solid #ddd; padding: 10px;">
+            <h1 style="color: #ffffff;">Ferramentas</h1>
+            <img src="https://img.shields.io/badge/-Git-ffffff?style=flat&logo=git" alt="Git" style="display: inline-block;">
+            <img src="https://img.shields.io/badge/-GitHub-ffffff?style=flat&logo=github" alt="GitHub" style="display: inline-block;">
+            <img src="https://img.shields.io/badge/-Markdown-ffffff?style=flat&logo=markdown" alt="Markdown" style="display: inline-block;">
         </td>
     </tr>
     <tr>
-        <td style="background-color: #f2f2f2; border: 1px solid #ddd; padding: 10px;">
-            <h1>IDE</h1>
-            <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code"><br>
+        <td style="background-color: #141321; border: 1px solid #ddd; padding: 10px;">
+            <h1 style="color: #ffffff;">IDE</h1>
+            <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-ffffff?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code" style="display: inline-block;">
         </td>
     </tr>
 </table>
+
+
 
 
 ##

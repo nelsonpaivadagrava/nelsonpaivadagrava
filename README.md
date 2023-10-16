@@ -63,8 +63,8 @@ Entusiasta de Engenharia de Computação com foco em **Ciência de Dados**. Habi
         <th style="text-align: left;">Linguagem</th>
     </tr>
     <tr>
-        <td>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-            <img src="https://img.shields.io/badge/-Python-ffffff?style=flat&logo=python" alt="PYTHON" style="display: block; margin-bottom: 10px;">
+        <td>
+            <img src="https://img.shields.io/badge/-Python-ffffff?style=flat&logo=python" alt="PYTHON" style="display: block; margin-bottom: 10px;">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
         </td>
     </tr>
     <tr>

@@ -80,7 +80,7 @@ Entusiasta de Engenharia de Computação com foco em **Ciência de Dados**. Habi
                 <img src="https://img.shields.io/badge/-Git-ffffff?style=flat&logo=git" alt="Git" style="display: inline-block;">
                 <img src="https://img.shields.io/badge/-GitHub-ffffff?style=flat&logo=github" alt="GitHub" style="display: inline-block;">
                 <img src="https://img.shields.io/badge/-Markdown-ffffff?style=flat&logo=markdown" alt="Markdown" style="display: inline-block;">
-            </span>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+            </span>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
         </td>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
     </tr>
     <tr>

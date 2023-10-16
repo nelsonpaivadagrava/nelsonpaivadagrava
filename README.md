@@ -40,10 +40,6 @@ Entusiasta de Engenharia de Computação com foco em **Ciência de Dados**. Habi
   </tr>
 </table>
 
-
-
-
-
 <h1>🔥 Github Status </h2>
 
 <img align="right" width="46%" src="./assets/img2.png"/>
@@ -60,6 +56,46 @@ Entusiasta de Engenharia de Computação com foco em **Ciência de Dados**. Habi
   <a href="https://github.com/Enhanced-TTVDropBot"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nelsonpaivadagrava&repo=nelsonpaivadagrava&hide_border=true&&title_color=74C488&icon_color=F8D866&theme=radical&show_icons=false&text_color=ffffff" alt="readme-typing-svg"></a>
 </p>
 
+
+<table style="width:100%;">
+  <tr>
+    <th colspan="7"><h1>Linguagem</h1></th>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" alt="PYTHON"></td>
+    <td><img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=3&logoColor=1572B6" alt="CSS"></td>
+    <td><img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="JavaScript"></td>
+    <td><img src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C" alt="Bootstrap"></td>
+    <td><img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" alt="Node.js"></td>
+    <td><img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" alt="React"></td>
+    <td><img src="https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js" alt="Next.js"></td>
+  </tr>
+</table>
+
+<table style="width:100%;">
+  <tr>
+    <th colspan="3"><h1>Ferramentas</h1></th>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="Git"></td>
+    <td><img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="GitHub"></td>
+    <td><img src="https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown" alt="Markdown"></td>
+  </tr>
+</table>
+
+<table style="width:100%; ">
+  <tr>
+    <th><h1>IDE</h1></th>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code"></td>
+  </tr>
+</table>
+
+
+
+
 ##
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nelsonpaivadagrava&bg_color=141321&color=15e5a6&line=74C488&area_color=A2E1B1&point=A2E1B1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+

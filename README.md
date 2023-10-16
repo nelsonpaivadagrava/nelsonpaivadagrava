@@ -16,7 +16,7 @@ Entusiasta de Engenharia de Computação com foco em **Ciência de Dados**. Habi
 <table style="width:100%; border-collapse: collapse;">
   <tr style="background-color: #f2f2f2;">
     <th style="padding: 15px; text-align: left; border-bottom: 1px solid #ddd;">👩‍💻 Sobre mim</th>
-    <th style="padding: 15px; text-align: left; border-bottom: 1px solid #ddd;">About me</th>
+    <th style="padding: 15px; text-align: left; border-bottom: 1px solid #ddd;">👩‍💻About me</th>
   </tr>
   <tr>
     <td style="padding: 15px; text-align: left; border-bottom: 1px solid #ddd;">Brasil - Sou do Brasil</td>
@@ -35,16 +35,8 @@ Entusiasta de Engenharia de Computação com foco em **Ciência de Dados**. Habi
     <td style="padding: 15px; text-align: left; border-bottom: 1px solid #ddd;">👩‍🏫 Love teaching and sharing knowledge</td>
   </tr>
   <tr>
-    <td style="padding: 15px; text-align: left; border-bottom: 1px solid #ddd;">🏞️ Viajar é um dos meus hobbies favoritos. O Emerald Lake é um dos lugares mais bonitos onde já estive!</td>
-    <td style="padding: 15px; text-align: left; border-bottom: 1px solid #ddd;">🏞️ Traveling is one of my favorite hobbies. Emerald Lake is one of the most beautiful places I've ever been to!</td>
-  </tr>
-  <tr>
-    <td style="padding: 15px; text-align: left; border-bottom: 1px solid #ddd;">🐶 Frodo é o melhor amigo que tenho, e adivinhe? Ele tem quatro patas 🐾🐾</td>
-    <td style="padding: 15px; text-align: left; border-bottom: 1px solid #ddd;">🐶 Frodo is the best friend I have, and guess what? He has four paws 🐾🐾</td>
-  </tr>
-  <tr>
-    <td style="padding: 15px; text-align: left; border-bottom: 1px solid #ddd;">🎵 Já toquei em uma orquestra nos meus tempos de faculdade, tocava flauta transversal!</td>
-    <td style="padding: 15px; text-align: left; border-bottom: 1px solid #ddd;">🎵 I played in an orchestra during my college days, playing the transverse flute!</td>
+    <td style="padding: 15px; text-align: left; border-bottom: 1px solid #ddd;">🎬 Edição de vídeo é um dos meus hobbies favoritos!</td>
+    <td style="padding: 15px; text-align: left; border-bottom: 1px solid #ddd;">🎬 Video editing is one of my favorite hobbies!</td>
   </tr>
 </table>
 

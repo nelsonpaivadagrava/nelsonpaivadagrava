@@ -56,7 +56,7 @@ Entusiasta de Engenharia de Computação com foco em **Ciência de Dados**. Habi
   <a href="https://github.com/Enhanced-TTVDropBot"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nelsonpaivadagrava&repo=nelsonpaivadagrava&hide_border=true&&title_color=74C488&icon_color=F8D866&theme=radical&show_icons=false&text_color=ffffff" alt="readme-typing-svg"></a>
 </p>
 
-<table style="width:100%;">
+<table style="width:100%;background-color: #141321;">
     <tr>
         <td style="background-color: #141321; border: 1px solid #ddd; padding: 10px;">
             <h1 style="color: #ffffff;">Linguagem</h1>

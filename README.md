@@ -58,7 +58,7 @@ Entusiasta de Engenharia de Computação com foco em **Ciência de Dados**. Habi
 
 ##
 
-<table style="width:100%; margin: 0 auto; background-color: #141321; border: 1px solid #ddd; padding: 10px; color: #ffffff;">
+<table style="width:100%; max-width: 800px; margin: 0 auto; background-color: #141321; border: 1px solid #ddd; padding: 10px; color: #ffffff;">
     <tr>
         <th style="text-align: left;">Linguagem</th>
     </tr>
@@ -83,13 +83,10 @@ Entusiasta de Engenharia de Computação com foco em **Ciência de Dados**. Habi
     <tr>
         <td>
             <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-ffffff?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code" style="display: block; margin-bottom: 10px;">
+            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
         </td>
     </tr>
-    <tr>
-        <td style="font-size: 1px;">&#8203;</td>
-    </tr>
 </table>
-
 
 
 

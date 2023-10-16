@@ -32,4 +32,4 @@ Entusiasta de Engenharia de Computação com foco em **Ciência de Dados**. Habi
 
 ##
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nelsonpaivadagrava&bg_color=141321&color=15e5a6&line=74C488&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nelsonpaivadagrava&bg_color=141321&color=15e5a6&line=74C488&area_color=A2E1B1&point=A2E1B1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)

@@ -40,7 +40,7 @@ Entusiasta de Engenharia de Computação com foco em **Ciência de Dados**. Habi
   </tr>
 </table>
 
-<h1>🔥 Github Status </h2>
+<h1>🔥Github Status </h2>
 
 <img align="right" width="46%" src="./assets/img2.png"/>
 
@@ -49,7 +49,7 @@ Entusiasta de Engenharia de Computação com foco em **Ciência de Dados**. Habi
   <a href="https://github.com/Giingu"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonpaivadagrava&langs_count=8&layout=compact&theme=radical&4&show_icons=true&title_color=74C488&text_color=A2E1B1"/></a>
   <br/>
 
-<h2> 📘 Top Projetos</h2>
+<h1>📘Top Projetos</h1>
 
 <p align="left" href="https://github.com/Giingu?tab=repositories&sort=stargazers">
     <a href="https://github.com/Enhanced-TTVDropBot"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nelsonpaivadagrava&repo=nelsonpaivadagrava&hide_border=true&&title_color=74C488&icon_color=F8D866&theme=radical&show_icons=false&text_color=ffffff" alt="readme-typing-svg"></a>
@@ -57,11 +57,11 @@ Entusiasta de Engenharia de Computação com foco em **Ciência de Dados**. Habi
 </p>
 
 
-<h1>Habilidades</h1>
+<h1>🚀Habilidades</h1>
 
 <table style="width:100%; max-width: 800px; margin: 0 auto; background-color: #141321; border: 1px solid #ddd; padding: 10px; color: #ffffff;">
     <tr>
-        <th style="text-align: left;">Linguagem</th>
+        <th style="text-align: left;">💬 Linguagem</th>
     </tr>
     <tr>
         <td>
@@ -69,7 +69,7 @@ Entusiasta de Engenharia de Computação com foco em **Ciência de Dados**. Habi
         </td>
     </tr>
     <tr>
-        <th style="text-align: left;">Ferramentas</th>
+        <th style="text-align: left;">⚙️ Ferramentas</th>
     </tr>
     <tr>
         <td>
@@ -79,7 +79,7 @@ Entusiasta de Engenharia de Computação com foco em **Ciência de Dados**. Habi
         </td>
     </tr>
     <tr>
-        <th style="text-align: left;">IDE</th>
+        <th style="text-align: left;">🔧 IDE</th>
     </tr>
     <tr>
         <td>

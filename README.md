@@ -66,6 +66,7 @@ Entusiasta de Engenharia de Computação com foco em **Ciência de Dados**. Habi
     <tr>
         <td>
             <img src="https://img.shields.io/badge/-Python-ffffff?style=flat&logo=python&labelColor=ffffff&color=74C488" alt="PYTHON" style="display: block; margin-bottom: 10px;">
+            <img src="https://img.shields.io/badge/-Python-ffffff?style=flat&logo=Pandas&labelColor=ffffff&color=74C488&logoColor=000000" alt="PYTHON" style="display: block; margin-bottom: 10px;">
         </td>
     </tr>
     <tr>

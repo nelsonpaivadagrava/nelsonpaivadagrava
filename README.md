@@ -61,8 +61,8 @@ Entusiasta de Engenharia de Computação com foco em **Ciência de Dados**. Habi
 <table style="width:100%;">
     <tr>
         <td style="background-color: #141321; border: 1px solid #ddd; padding: 10px; color: #ffffff;">
-            <h1 style="margin: 0; padding: 0;">Linguagem</h1>
-            <span style="white-space: nowrap;">
+            <h1>Linguagem</h1>
+            <span>
                 <img src="https://img.shields.io/badge/-Python-ffffff?style=flat&logo=python" alt="PYTHON" style="display: inline-block;">
                 <img src="https://img.shields.io/badge/-CSS-ffffff?style=flat&logo=3&logoColor=1572B6" alt="CSS" style="display: inline-block;">
                 <img src="https://img.shields.io/badge/-JavaScript-ffffff?style=flat&logo=javascript" alt="JavaScript" style="display: inline-block;">
@@ -70,13 +70,13 @@ Entusiasta de Engenharia de Computação com foco em **Ciência de Dados**. Habi
                 <img src="https://img.shields.io/badge/-Node.js-ffffff?style=flat&logo=node.js" alt="Node.js" style="display: inline-block;">
                 <img src="https://img.shields.io/badge/-React-ffffff?style=flat&logo=react" alt="React" style="display: inline-block;">
                 <img src="https://img.shields.io/badge/-Next.js-ffffff?style=flat&logo=next.js" alt="Next.js" style="display: inline-block;">
-            </span>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+            </span>
         </td>
     </tr>
     <tr>
         <td style="background-color: #141321; border: 1px solid #ddd; padding: 10px; color: #ffffff;">
-            <h1 style="margin: 0; padding: 0;">Ferramentas</h1>
-            <span style="white-space: nowrap;">
+            <h1>Ferramentas</h1>
+            <span>
                 <img src="https://img.shields.io/badge/-Git-ffffff?style=flat&logo=git" alt="Git" style="display: inline-block;">
                 <img src="https://img.shields.io/badge/-GitHub-ffffff?style=flat&logo=github" alt="GitHub" style="display: inline-block;">
                 <img src="https://img.shields.io/badge/-Markdown-ffffff?style=flat&logo=markdown" alt="Markdown" style="display: inline-block;">
@@ -85,8 +85,8 @@ Entusiasta de Engenharia de Computação com foco em **Ciência de Dados**. Habi
     </tr>
     <tr>
         <td style="background-color: #141321; border: 1px solid #ddd; padding: 10px; color: #ffffff;">
-            <h1 style="margin: 0; padding: 0;">IDE</h1>
-            <span style="white-space: nowrap;">
+            <h1>IDE</h1>
+            <span>
                 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-ffffff?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code" style="display: inline-block;">
             </span>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
         </td>

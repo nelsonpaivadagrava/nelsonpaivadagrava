@@ -60,10 +60,10 @@ Entusiasta de Engenharia de Computação com foco em **Ciência de Dados**. Habi
 
 <table style="width:100%; background-color: #141321; border: 1px solid #ddd; padding: 10px; color: #ffffff;">
     <tr>
-        <th style="text-align: left;">Linguagem⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</th>
+        <th style="text-align: left;">Linguagem</th>
     </tr>
     <tr>
-        <td>
+        <td>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
             <img src="https://img.shields.io/badge/-Python-ffffff?style=flat&logo=python" alt="PYTHON" style="display: block; margin-bottom: 10px;">
         </td>
     </tr>

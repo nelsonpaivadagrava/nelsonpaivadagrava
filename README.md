@@ -1,11 +1,14 @@
 <a href="https://github.com/DavidsDvm">
-    <img src="./assets/Comp 1.gif" alt="nelsonpaivadagrava Profile GIF" style="border-radius: 50%;">
+    <img src="./assets/Comp 1.gif" alt="nelsonpaivadagrava Profile GIF" >
 </a>
-
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀
-
 <p align="center">
     <a href=""><img src="https://i.imgur.com/QPASC7j.png" alt="My Linkedin"></a>
+    <a href=""><img src="https://i.imgur.com/zfFKadt.png" alt="My Instagram"></a>
+    <a href=""><img src="https://i.imgur.com/qbLFelZ.png" alt="My Youtube"></a>
+    <a href=""><img src="https://i.imgur.com/vuPh96E.png" alt="My email"></a>
+    <a href=""><img src="https://i.imgur.com/jsNmn5r.png" alt="My Website"></a>
+    <a href=""><img src="https://i.imgur.com/mnBKYGn.png" alt="My Github"></a>
 </p>
 
 ##
